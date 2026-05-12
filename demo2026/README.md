@@ -74,7 +74,7 @@ demo2026/
 Выполните в Shell Proxmox:
 
 ```bash
-git clone https://github.com/arugva-lab/demo2026
+git clone https://github.com/lemanone/Demo2026/demo2026
 cd demo2026
 ```
 
